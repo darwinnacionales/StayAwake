@@ -3,8 +3,6 @@ package stayawake;
 import java.awt.AWTException;
 import java.awt.MouseInfo;
 import java.awt.Robot;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
 /**
